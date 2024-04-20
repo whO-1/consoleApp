@@ -1,0 +1,30 @@
+[
+    {
+    	"name": "Flour",
+	    "price": 10.5
+    },
+    {
+    	"name": "Sugar",
+	    "price": 15.25
+    },
+    {
+    	"name": "Eggs",
+	    "price": 20.75
+    },
+    {
+    	"name": "Milk",
+	    "price": 8.99
+    },
+    {
+    	"name": "Butter",
+	    "price": 12.49
+    },
+    {
+    	"name": "Salt",
+	    "price": 5.75
+    },
+    {
+    	"name": "Baking Powder",
+	    "price": 18.0
+    },
+]

@@ -1,0 +1,32 @@
+[
+    {
+    	"name": "Pancakes",
+        "description": "Fluffy pancakes served with maple syrup and butter.",
+        "cookingtime": 12,
+        "ingredients": "Flour,Sugar,Eggs,Milk"
+    },
+    {
+    	"name": "Chocolate Cake",
+        "description": "Decadent chocolate cake layered with rich chocolate ganache.",
+        "cookingtime": 17,
+        "ingredients": "Flour,Sugar,Eggs"
+    },
+    {
+    	"name": "Omelette",
+        "description": "Fluffy omelette filled with sautéed vegetables and melted cheese.",
+        "cookingtime": 10,
+        "ingredients": "Eggs,Milk,Salt"
+    },
+    {
+    	"name": "Muffins",
+        "description": "Moist muffins bursting with blueberries and topped with a crunchy streusel.",
+        "cookingtime": 25,
+        "ingredients": "Flour,Sugar,Eggs,Baking Powder"
+    },
+    {
+    	"name": "Cookies",
+        "description": "Buttery cookies loaded with chocolate chips and sprinkled with sea salt.",
+        "cookingtime": 25,
+        "ingredients": "Flour,Sugar,Baking Powder"
+    }
+]
